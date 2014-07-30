@@ -1,0 +1,4 @@
+SyQuery
+=======
+
+Symantis Query library 
